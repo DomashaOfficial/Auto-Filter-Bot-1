@@ -11,16 +11,6 @@ I Am Just A Advance Auto Filter Bot....😉
 Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
 
 For More Details Click Help Button Below..
-reply_markup=InlineKeyboardMarkup(
-                                [[
-                                        InlineKeyboardButton(
-                                            "Help", callback_data="help"),
-                                        InlineKeyboardButton(
-                                            "Support Group", url="https://t.me/SL_Developers_Support")
-                                    ],[
-                                      InlineKeyboardButton(
-                                            "Updates", url="https://t.me/SL_Developers_Official")
-                                    ]]
 """    
     
     HELP_TEXT = """
